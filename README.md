@@ -1,0 +1,1 @@
+Assignments for the Open Machine Learning Course. https://mlcourse.ai/assignments
