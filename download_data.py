@@ -30,3 +30,9 @@ print("Manually download: https://d.pr/f/W0HpZh")
 
 print("\nTopic 6")
 print("Manually download from Kaggle: https://www.kaggle.com/c/how-good-is-your-medium-article/data")
+
+print("\nTopic 7")
+print("Data is downloaded in Jupyter notebook")
+
+print("\nTopic 8")
+download("https://raw.githubusercontent.com/Yorko/mlcourse.ai/master/data/credit_scoring_sample.csv", "topic-5/data/credit_scoring_sample.csv")
